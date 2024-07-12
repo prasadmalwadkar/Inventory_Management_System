@@ -15,6 +15,7 @@
 2. Open the folder in CLI
 4. Run the program : python inventory_management.py
 
+
 # Menu Options
 Add Product:
 Prompts to enter product details.
@@ -32,7 +33,7 @@ List All Products:
 Displays all products in the inventory.
 
 Low-Stock Alert:
-Displays products with quantities below a threshold.
+Displays products with quantities below a threshold.( I have set the threshold as 2).
 
 Total Inventory Value:
 Displays the total value of all products in the inventory.
